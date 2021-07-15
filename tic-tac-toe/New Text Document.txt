@@ -1,3 +1,0 @@
-flex is used in body to center the gamiing screen
-display: flex;
-justify-content:center
